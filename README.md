@@ -8,9 +8,9 @@ A curious software developer with great interest in learning new things. I'm dri
 
 ---
 
-**Software Developer @ [helo](https://www.helo.se/)** Göteborg 
+**Software Developer** @ [helo](https://www.helo.se/) (*May 2018 - Present*)
+Göteborg 
 
-*May 2018 - Present*
 
 Developer with frontend-focus, mainly in different JavaScript-frameworks (React, React-native & Angular). Worked on a couple of different projects with both web- and app-development.
 
@@ -18,16 +18,15 @@ Developer with frontend-focus, mainly in different JavaScript-frameworks (React,
 
 ---
 
-**Web Developer in E-commerce (YH) @ [Medieinstitutet](https://medieinstitutet.se/)** Göteborg
-
-*Sep 2016 - May 2018*
+**Web Developer in E-commerce(YH)** @ [Medieinstitutet](https://medieinstitutet.se/) (*Sep 2016 - May 2018*)
+Göteborg
 
 Frontend-development, backend-development, database-technology & e-commerce
-<br>
 
-**Mechanical Engineering (B.E) @ [Åland University of Applied Science](https://www.ha.ax/)** Mariehamn, Finland
 
-*Sep 2007 - Oct 2012*
+
+**Mechanical Engineering (B.E)** @ [Åland University of Applied Science](https://www.ha.ax/) (*Sep 2007 - Oct 2012*)
+Mariehamn, Finland
 
 Mechanical engineering, ship technology, energy engineering & work practice
 
