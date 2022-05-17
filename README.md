@@ -6,7 +6,8 @@ A curious software developer with great interest in learning new things. I'm dri
 
 ### Development Experience
 
-**Software Developer @ [helo](https://www.helo.se/)** Göteborg
+**Software Developer @ [helo](https://www.helo.se/)** Göteborg 
+
 _May 2018 - Present_
 
 Developer with frontend-focus, mainly in different JavaScript-frameworks (React, React-native & Angular). Worked on a couple of different projects with both web- and app-development.
