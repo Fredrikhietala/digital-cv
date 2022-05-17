@@ -2,7 +2,7 @@
 
 A curious software developer with great interest in learning new things. I'm driven and put my heart and soul in my projects. I'm able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-[hietala.fredrik@gmail.com](<hietala.fredrik@gmail.com>) / 0700462942 / [LinkedIn](https://www.linkedin.com/in/fredrik-hietala-4a8a4467/)
+<hietala.fredrik@gmail.com> / 0700462942 / [LinkedIn](https://www.linkedin.com/in/fredrik-hietala-4a8a4467/)
 
 ### Development Experience
 
@@ -33,6 +33,8 @@ Mechanical engineering, ship technology, energy engineering & work practice
 
 
 ### Skills
+
+---
 
 - JavaScript
 - TypeScript
