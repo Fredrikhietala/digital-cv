@@ -2,11 +2,15 @@
 
 A curious software developer with great interest in learning new things. I'm driven and put my heart and soul in my projects. I'm able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-[Email](@mailto:hietala.fredrik@gmail.com)/[LinkedIn](https://www.linkedin.com/in/fredrik-hietala-4a8a4467/)
+[Email](@mailto:hietala.fredrik@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fredrik-hietala-4a8a4467/)
 
-### Markdown
+### Development Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Software Developer @ [helo](https://www.helo.se/)** Göteborg
+_May 2018 - Present_
+
+Developer with frontend-focus, mainly in different JavaScript-frameworks (React, React-native & Angular). Worked on a couple of different projects with both web- and app-development.
+
 
 ```markdown
 Syntax highlighted code block
