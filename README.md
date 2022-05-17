@@ -2,7 +2,7 @@
 
 A curious software developer with great interest in learning new things. I'm driven and put my heart and soul in my projects. I'm able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-[Email](@mailto:hietala.fredrik@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fredrik-hietala-4a8a4467/)
+[hietala.fredrik@gmail.com](@mailto:hietala.fredrik@gmail.com) / 0700462942 / [LinkedIn](https://www.linkedin.com/in/fredrik-hietala-4a8a4467/)
 
 ### Development Experience
 
