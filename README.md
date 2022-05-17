@@ -23,7 +23,7 @@ Developer with frontend-focus, mainly in different JavaScript-frameworks (React,
 *Sep 2016 - May 2018*
 
 Frontend-development, backend-development, database-technology & e-commerce
-
+<br>
 
 **Mechanical Engineering (B.E) @ [Åland University of Applied Science](https://www.ha.ax/)** Mariehamn, Finland
 
@@ -32,18 +32,10 @@ Frontend-development, backend-development, database-technology & e-commerce
 Mechanical engineering, ship technology, energy engineering & work practice
 
 
-### Skills
+### Frontend Skills
 
 ---
 
-- JavaScript
-- TypeScript
-- HTML & CSS
-- React
-- React-Native
-- Redux
-- Redux-Saga
-- Angular
-- Ionic
+JavaScript - TypeScript - HTML & CSS - React - React-Native - Redux - Redux-Saga - Angular - Ionic
 
 
