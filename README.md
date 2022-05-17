@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Fredrik Hietala
 
-You can use the [editor on GitHub](https://github.com/Fredrikhietala/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A curious software developer with great interest in learning new things. I'm driven and put my heart and soul in my projects. I'm able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](@mailto:hietala.fredrik@gmail.com)/[LinkedIn](https://www.linkedin.com/in/fredrik-hietala-4a8a4467/)
 
 ### Markdown
 
