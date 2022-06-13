@@ -14,6 +14,30 @@ Göteborg
 
 Developer with frontend-focus, mainly in different JavaScript-frameworks (React, React-native & Angular). Worked on a couple of different projects with both web- and app-development.
 
+### Projects
+
+---
+
+**Fysiken App**
+
+Developed a webshop and added push-notification for the Fysiken-gym new mobile-application The app is integrated with Zoezi.
+Techniques: React-Native, Redux & Redux-sagas.
+
+**Wrebit**
+
+Was part of a team working on migrating an old angularJS mobile-application to newer Angular.
+Techniques: Angular, Ionic and a little bit of Redux.
+
+**Midman**
+
+Created a portal for auto-workshops including service-booking, customer-recruiting and customer-satisfaction (NKI).
+Techniques: React (next.js), Styled-Components & Redux.
+
+**Tailor**
+
+Build a webshop for customers partners to place orders. The webshop is tightly integrated with Microsoft Axapta.
+Techniques: Angular and a little node.js & MongoDB
+
 ### Education
 
 ---
